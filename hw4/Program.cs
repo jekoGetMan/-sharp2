@@ -15,7 +15,7 @@ namespace tst
         //Утка testik
         class Duck : Animals
         {
-
+            //lol
         }
         //Страус
         class mammals : Animals
